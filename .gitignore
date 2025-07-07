@@ -1,0 +1,5 @@
+heart_disease_model.pkl
+*.pkl
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
